@@ -54,7 +54,7 @@ e.g., continue the training from an existing model: python train.py 1 nondeforme
 ```
 
 ### Validation and visualization of the training results on non-deformed sheet part
-The validation of the trained agent is included in the [Jupyter Notebook](https://github.com/wyn430/SmartFixture/blob/master/code_nondeformed_inputs_nofix/test.ipynb).
+The validation of the trained agent is included in the [Jupyter Notebook](https://github.com/wyn430/SmartFixture/blob/master/code_nondeformed_inputs_nofix/test.ipynb). The pre-trained model is saved in [folder](https://github.com/wyn430/SmartFixture/tree/master/code_nondeformed_inputs_nofix/PPO_preTrained/Ansys_assembly/nondeformed_inputs_nofix_metal), which will be used in the validation by default.
 
 The visualization of the validation results is included in the [Jupyter Notebook] (https://github.com/wyn430/SmartFixture/blob/master/code_nondeformed_inputs_nofix/plot.ipynb)
 
@@ -71,7 +71,8 @@ e.g., continue the training from an existing model: python train.py 1 deformed_i
 ```
 
 ### Validation and visualization of the training results on non-deformed sheet part
-The validation of the trained agent is included in the [Jupyter Notebook](https://github.com/wyn430/SmartFixture/blob/master/code_deformed_inputs_nofix/test.ipynb).
+The validation of the trained agent is included in the [Jupyter Notebook](https://github.com/wyn430/SmartFixture/blob/master/code_deformed_inputs_nofix/test.ipynb). The pre-trained model is saved in [folder](https://github.com/wyn430/SmartFixture/tree/master/code_deformed_inputs_nofix/PPO_preTrained/Ansys_assembly/deformed_inputs_nofix_metal), which will be used in the validation by default.
+
 
 The visualization of the validation results is included in the [Jupyter Notebook](https://github.com/wyn430/SmartFixture/blob/master/code_deformed_inputs_nofix/plot.ipynb)
 
