@@ -56,7 +56,7 @@ e.g., continue the training from an existing model: python train.py 1 nondeforme
 ### Validation and visualization of the training results on non-deformed sheet part
 The validation of the trained agent is included in the [Jupyter Notebook](https://github.com/wyn430/SmartFixture/blob/master/code_nondeformed_inputs_nofix/test.ipynb).
 
-The visualization of the validation results is included in the Jupyter Notebook (https://github.com/wyn430/SmartFixture/blob/master/code_nondeformed_inputs_nofix/plot.ipynb)
+The visualization of the validation results is included in the [Jupyter Notebook] (https://github.com/wyn430/SmartFixture/blob/master/code_nondeformed_inputs_nofix/plot.ipynb)
 
 
 ### Training of deformed sheet part
